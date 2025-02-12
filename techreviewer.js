@@ -2,8 +2,8 @@ import puppeteer from "puppeteer";
 import fs from "fs";
 import path from "path";
 
-const saveAsJSON = (companies) => {
-    const filePath = path.resolve("techreviewerComp.json");
+export const saveAsJSON = (companies, filename) => {
+    const filePath = path.resolve(filename);
     fs.writeFileSync(filePath, JSON.stringify(companies, null, 2), "utf-8");
     console.log(`Data saved to ${filePath}`);
 };
@@ -76,10 +76,10 @@ const saveAsCSV = (companies) => {
     }
 
     // Output the collected data
-    console.log(companies);
+    // console.log(companies);
 
     saveAsCSV(companies);
-    saveAsJSON(companies);
+    saveAsJSON(companies, "techreviewerComp.json");
 
     await browser.close();
 })();

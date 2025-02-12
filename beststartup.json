@@ -1,0 +1,810 @@
+[
+  {
+    "name": "Wave",
+    "Crunchbase": "https://www.crunchbase.com/organization/wave-financial",
+    "Website": "http://www.waveapps.com/",
+    "Twitter": "http://twitter.com/waveHQ",
+    "Facebook": "http://www.facebook.com/waveHQ",
+    "Linkedin": "http://www.linkedin.com/company/1196866"
+  },
+  {
+    "name": "FreshBooks",
+    "Crunchbase": "https://www.crunchbase.com/organization/freshbooks",
+    "Website": "http://www.freshbooks.com/",
+    "Twitter": "http://twitter.com/freshbooks",
+    "Facebook": "http://www.facebook.com/freshbooks",
+    "Linkedin": "http://www.linkedin.com/company/freshbooks"
+  },
+  {
+    "name": "Jobber",
+    "Crunchbase": "https://www.crunchbase.com/organization/jobber",
+    "Website": "https://getjobber.com/",
+    "Twitter": "http://twitter.com/getjobber",
+    "Facebook": "http://www.facebook.com/GetJobber",
+    "Linkedin": "https://www.linkedin.com/company/jobber-software"
+  },
+  {
+    "name": "Relay",
+    "Crunchbase": "https://www.crunchbase.com/organization/relay-financial",
+    "Website": "https://relayfi.com/",
+    "Twitter": "https://twitter.com/relayfinancial",
+    "Facebook": "https://www.facebook.com/pg/relayfinancial",
+    "Linkedin": "https://www.linkedin.com/company/relay-financial"
+  },
+  {
+    "name": "Humi",
+    "Crunchbase": "https://www.crunchbase.com/organization/humi-hr",
+    "Website": "https://www.humi.ca/",
+    "Twitter": "https://twitter.com/gethumi",
+    "Facebook": "https://www.facebook.com/gethumi/",
+    "Linkedin": "https://www.linkedin.com/company-beta/15197446/?pathWildcard=15197446"
+  },
+  {
+    "name": "FundThrough",
+    "Crunchbase": "https://www.crunchbase.com/organization/fundthrough",
+    "Website": "https://www.fundthrough.com/",
+    "Twitter": "https://twitter.com/FundThrough",
+    "Facebook": "https://www.facebook.com/fundthrough/timeline?ref=page_internal",
+    "Linkedin": "https://www.linkedin.com/company/fundthrough"
+  },
+  {
+    "name": "Plooto",
+    "Crunchbase": "https://www.crunchbase.com/organization/plooto",
+    "Website": "https://www.plooto.com/",
+    "Twitter": "https://www.twitter.com/plootoinc",
+    "Facebook": "https://www.facebook.com/plootoinc",
+    "Linkedin": "https://www.linkedin.com/company/plooto"
+  },
+  {
+    "name": "Joist",
+    "Crunchbase": "https://www.crunchbase.com/organization/joist",
+    "Website": "https://www.joist.com/",
+    "Twitter": "https://twitter.com/joist",
+    "Facebook": "https://www.facebook.com/joistapp",
+    "Linkedin": "https://www.linkedin.com/company/joist"
+  },
+  {
+    "name": "ProntoForms",
+    "Crunchbase": "https://www.crunchbase.com/organization/prontoforms",
+    "Website": "http://www.prontoforms.com/",
+    "Twitter": "http://twitter.com/ProntoForms",
+    "Facebook": "http://www.facebook.com/ProntoForms",
+    "Linkedin": "https://www.linkedin.com/company/truecontext"
+  },
+  {
+    "name": "Reply.io",
+    "Crunchbase": "https://www.crunchbase.com/organization/replyapp-io",
+    "Website": "https://reply.io/",
+    "Twitter": "https://twitter.com/ReplyAppTeam",
+    "Facebook": "https://www.facebook.com/reply.io/",
+    "Linkedin": "https://www.linkedin.com/company/reply-io"
+  },
+  {
+    "name": "Smile.io",
+    "Crunchbase": "https://www.crunchbase.com/organization/smile-io",
+    "Website": "https://smile.io/",
+    "Twitter": "http://twitter.com/smilerewards",
+    "Facebook": "https://www.facebook.com/smile.io",
+    "Linkedin": "https://www.linkedin.com/company/smile.io/"
+  },
+  {
+    "name": "Wagepoint",
+    "Crunchbase": "https://www.crunchbase.com/organization/wagepoint",
+    "Website": "http://wagepoint.com/",
+    "Twitter": "http://twitter.com/wagepoint",
+    "Facebook": "http://www.facebook.com/Wagepoint",
+    "Linkedin": "http://www.linkedin.com/company/wagepoint"
+  },
+  {
+    "name": "Method:CRM",
+    "Crunchbase": "https://www.crunchbase.com/organization/method-crm",
+    "Website": "https://www.method.me/",
+    "Twitter": "http://twitter.com/MethodCRM",
+    "Facebook": "http://www.facebook.com/Method-Integration-Inc/17254056277",
+    "Linkedin": "http://www.linkedin.com/company/method-integration"
+  },
+  {
+    "name": "Hoppier",
+    "Crunchbase": "https://www.crunchbase.com/organization/desk-nibbles",
+    "Website": "https://www.hoppier.com/",
+    "Twitter": "https://twitter.com/hoppieroffice",
+    "Facebook": "https://www.facebook.com/pg/hoppieroffice",
+    "Linkedin": "https://www.linkedin.com/company/hoppier/"
+  },
+  {
+    "name": "Parkbench.com",
+    "Crunchbase": "https://www.crunchbase.com/organization/parkbench-com",
+    "Website": "http://parkbench.com/",
+    "Twitter": "https://twitter.com/parkbenchfamily",
+    "Facebook": "https://www.facebook.com/parkbenchfamily/",
+    "Linkedin": "https://www.linkedin.com/company/parkbench"
+  },
+  {
+    "name": "Webware.io",
+    "Crunchbase": "https://www.crunchbase.com/organization/webware-io",
+    "Website": "http://www.webware.io/",
+    "Twitter": "https://www.twitter.com/webwareio",
+    "Facebook": "https://www.facebook.com/webwareio",
+    "Linkedin": "N/A"
+  },
+  {
+    "name": "Ario Platform",
+    "Crunchbase": "https://www.crunchbase.com/organization/ario-platform",
+    "Website": "https://www.arioplatform.com/",
+    "Twitter": "https://www.twitter.com/https://twitter.com/ArioPlatform",
+    "Facebook": "https://www.facebook.com/arioplatform/",
+    "Linkedin": "https://www.linkedin.com/company/ario-platform/"
+  },
+  {
+    "name": "Fortuna.ai",
+    "Crunchbase": "https://www.crunchbase.com/organization/fortuna-ai",
+    "Website": "http://www.fortuna.ai/",
+    "Twitter": "https://twitter.com/fortunaai2",
+    "Facebook": "https://www.facebook.com/fortunalabs/",
+    "Linkedin": "https://www.linkedin.com/company/fortuna-ai/"
+  },
+  {
+    "name": "Needls.com",
+    "Crunchbase": "https://www.crunchbase.com/organization/needls-com",
+    "Website": "http://needls.com/",
+    "Twitter": "http://twitter.com/needlsads",
+    "Facebook": "http://www.facebook.com/TheOfficialNeedlsPage",
+    "Linkedin": "http://www.linkedin.com/company/needls-com"
+  },
+  {
+    "name": "TeamGram",
+    "Crunchbase": "https://www.crunchbase.com/organization/teamgram",
+    "Website": "https://www.teamgram.com/",
+    "Twitter": "N/A",
+    "Facebook": "N/A",
+    "Linkedin": "https://www.linkedin.com/company/teamgram/"
+  },
+  {
+    "name": "Eden App",
+    "Crunchbase": "https://www.crunchbase.com/organization/eden-app",
+    "Website": "http://edenapp.com/",
+    "Twitter": "https://www.twitter.com/edenapp",
+    "Facebook": "https://www.facebook.com/edenapp",
+    "Linkedin": "https://www.linkedin.com/company-beta/10368324/admin/updates/"
+  },
+  {
+    "name": "Greenline POS",
+    "Crunchbase": "https://www.crunchbase.com/organization/getgreenline",
+    "Website": "https://getgreenline.co/",
+    "Twitter": "https://twitter.com/getgreenline",
+    "Facebook": "https://www.facebook.com/GetGreenline/",
+    "Linkedin": "N/A"
+  },
+  {
+    "name": "HostPapa",
+    "Crunchbase": "https://www.crunchbase.com/organization/hostpapa",
+    "Website": "https://www.hostpapa.com/",
+    "Twitter": "https://twitter.com/hostpapa",
+    "Facebook": "https://www.facebook.com/pg/HostPapa/",
+    "Linkedin": "https://www.linkedin.com/company/hostpapa/about/"
+  },
+  {
+    "name": "PlasticSpot",
+    "Crunchbase": "https://www.crunchbase.com/organization/plasticspot",
+    "Website": "https://plasticspot.io/",
+    "Twitter": "https://twitter.com/PlasticSpot",
+    "Facebook": "https://www.facebook.com/PlasticSpot",
+    "Linkedin": "https://www.linkedin.com/company/plasticspot/?originalSubdomain=me"
+  },
+  {
+    "name": "PivoHub",
+    "Crunchbase": "https://www.crunchbase.com/organization/pivohub",
+    "Website": "https://info.pivohub.com/",
+    "Twitter": "N/A",
+    "Facebook": "https://www.facebook.com/pivohubcom/?ref=br_rs",
+    "Linkedin": "https://www.linkedin.com/company/pivohub/"
+  },
+  {
+    "name": "Sherpa ERP",
+    "Crunchbase": "https://www.crunchbase.com/organization/sherpa-erp",
+    "Website": "https://sherpaerp.com/",
+    "Twitter": "https://twitter.com/sherpa_erp",
+    "Facebook": "https://www.facebook.com/sherpaerp/",
+    "Linkedin": "https://www.linkedin.com/company/sherpa-erp/"
+  },
+  {
+    "name": "Knit People",
+    "Crunchbase": "https://www.crunchbase.com/organization/white-beaver",
+    "Website": "https://www.knitpeople.com/",
+    "Twitter": "https://twitter.com/KnitHQ",
+    "Facebook": "https://www.facebook.com/KnitHQ",
+    "Linkedin": "https://ca.linkedin.com/company/knitpeople"
+  },
+  {
+    "name": "Georgette Packaging",
+    "Crunchbase": "https://www.crunchbase.com/organization/georgette-packaging",
+    "Website": "http://www.georgettepackaging.com/",
+    "Twitter": "https://twitter.com/GeorgettePack",
+    "Facebook": "https://www.facebook.com/GeorgettePackaging?fref=ts",
+    "Linkedin": "https://www.linkedin.com/company/9369009"
+  },
+  {
+    "name": "Now In Store",
+    "Crunchbase": "https://www.crunchbase.com/organization/now-in-store",
+    "Website": "http://nowinstore.com/",
+    "Twitter": "http://twitter.com/nowinstoreapp",
+    "Facebook": "http://www.facebook.com/nowinstore",
+    "Linkedin": "http://www.linkedin.com/company/2919795"
+  },
+  {
+    "name": "MYLE Electronics",
+    "Crunchbase": "https://www.crunchbase.com/organization/myle-electronics",
+    "Website": "http://getmyle.com/",
+    "Twitter": "https://twitter.com/getmyle",
+    "Facebook": "https://www.facebook.com/getmyle",
+    "Linkedin": "https://www.linkedin.com/company/myle-electronics-corp-?trk"
+  },
+  {
+    "name": "Openera",
+    "Crunchbase": "https://www.crunchbase.com/organization/openera",
+    "Website": "http://www.openera.com/",
+    "Twitter": "http://twitter.com/openera",
+    "Facebook": "http://www.facebook.com/Openera.net",
+    "Linkedin": "http://www.linkedin.com/company/openera-inc"
+  },
+  {
+    "name": "Nextwave Software",
+    "Crunchbase": "https://www.crunchbase.com/organization/nextwave-software",
+    "Website": "http://www.nxtwv.com/",
+    "Twitter": "http://twitter.com/nextwave_",
+    "Facebook": "https://www.facebook.com/nextwavesoftware",
+    "Linkedin": "https://www.linkedin.com/company/nextwave-software"
+  },
+  {
+    "name": "Grand River Business Intelligence",
+    "Crunchbase": "https://www.crunchbase.com/organization/grand-river-business-intelligence",
+    "Website": "http://www.grandriverbi.com/",
+    "Twitter": "N/A",
+    "Facebook": "N/A",
+    "Linkedin": "https://www.linkedin.com/company/contractcomplete/"
+  },
+  {
+    "name": "Stormboard",
+    "Crunchbase": "https://www.crunchbase.com/organization/stormboard",
+    "Website": "http://stormboard.com/",
+    "Twitter": "http://twitter.com/stormboard",
+    "Facebook": "http://www.facebook.com/stormboard",
+    "Linkedin": "http://www.linkedin.com/company/stormboard"
+  },
+  {
+    "name": "Rewardly",
+    "Crunchbase": "https://www.crunchbase.com/organization/rewardly",
+    "Website": "https://rewardly.ca/",
+    "Twitter": "https://twitter.com/myrewardly",
+    "Facebook": "https://www.facebook.com/myrewardly",
+    "Linkedin": "https://www.linkedin.com/company/rewardly"
+  },
+  {
+    "name": "Deluxe",
+    "Crunchbase": "https://www.crunchbase.com/organization/deluxe-fcce",
+    "Website": "http://www.deluxe.com/",
+    "Twitter": "https://www.twitter.com/Deluxe",
+    "Facebook": "https://www.facebook.com/deluxe/",
+    "Linkedin": "https://www.linkedin.com/company/deluxe/"
+  },
+  {
+    "name": "Bridgr",
+    "Crunchbase": "https://www.crunchbase.com/organization/bridgr",
+    "Website": "https://bridgr.co/",
+    "Twitter": "https://twitter.com/wearebridgr",
+    "Facebook": "https://www.facebook.com/wearebridgr/",
+    "Linkedin": "https://www.linkedin.com/company/bridgr.co/"
+  },
+  {
+    "name": "Yocale",
+    "Crunchbase": "https://www.crunchbase.com/organization/yocale",
+    "Website": "https://www.yocale.com/",
+    "Twitter": "https://www.twitter.com/yocalenetwork",
+    "Facebook": "https://www.facebook.com/yocalenetwork",
+    "Linkedin": "https://www.linkedin.com/company/yocale"
+  },
+  {
+    "name": "inFlow Inventory Software",
+    "Crunchbase": "https://www.crunchbase.com/organization/inflow-inventory-software",
+    "Website": "http://www.inflowinventory.com/",
+    "Twitter": "http://twitter.com/inFlowInventory",
+    "Facebook": "http://www.facebook.com/inFlowInventory",
+    "Linkedin": "N/A"
+  },
+  {
+    "name": "Callture",
+    "Crunchbase": "https://www.crunchbase.com/organization/callture",
+    "Website": "http://www.callture.com/",
+    "Twitter": "N/A",
+    "Facebook": "N/A",
+    "Linkedin": "N/A"
+  },
+  {
+    "name": "Scoop Robotix",
+    "Crunchbase": "https://www.crunchbase.com/organization/scoop-solar",
+    "Website": "https://www.scooprobotix.com/",
+    "Twitter": "https://twitter.com/scoop_mae",
+    "Facebook": "N/A",
+    "Linkedin": "https://www.linkedin.com/company/scooprobotix/"
+  },
+  {
+    "name": "Sales Spider",
+    "Crunchbase": "https://www.crunchbase.com/organization/sales-spider",
+    "Website": "http://salespider.com/",
+    "Twitter": "http://twitter.com/SaleSpider",
+    "Facebook": "N/A",
+    "Linkedin": "N/A"
+  },
+  {
+    "name": "Spinrite",
+    "Crunchbase": "https://www.crunchbase.com/organization/spinrite",
+    "Website": "http://www.yarnspirations.com/",
+    "Twitter": "https://twitter.com/Yarnspirations1",
+    "Facebook": "https://www.facebook.com/yarnspirations",
+    "Linkedin": "https://www.linkedin.com/company/1765334"
+  },
+  {
+    "name": "BrainRider Knowledge Marketing Group",
+    "Crunchbase": "https://www.crunchbase.com/organization/brainrider-knowledge-marketing-group",
+    "Website": "http://www.brainrider.com/",
+    "Twitter": "https://www.twitter.com/brainrider",
+    "Facebook": "https://www.facebook.com/brainrider",
+    "Linkedin": "https://www.linkedin.com/company/brainrider"
+  },
+  {
+    "name": "Osmos",
+    "Crunchbase": "https://www.crunchbase.com/organization/osmos-cloud",
+    "Website": "http://osmoscloud.com/",
+    "Twitter": "https://www.twitter.com/osmoscloud",
+    "Facebook": "https://www.facebook.com/osmoscloud",
+    "Linkedin": "https://www.linkedin.com/company/osmos-cloud"
+  },
+  {
+    "name": "nmodes",
+    "Crunchbase": "https://www.crunchbase.com/organization/nmodes",
+    "Website": "http://nmodes.com/",
+    "Twitter": "https://twitter.com/nmodes_com",
+    "Facebook": "https://www.facebook.com/nmodescom",
+    "Linkedin": "https://www.linkedin.com/company/nmodes"
+  },
+  {
+    "name": "Click Less Do More",
+    "Crunchbase": "https://www.crunchbase.com/organization/click-less-do-more",
+    "Website": "https://clicklessdomore.com/",
+    "Twitter": "N/A",
+    "Facebook": "N/A",
+    "Linkedin": "N/A"
+  },
+  {
+    "name": "Cakemail",
+    "Crunchbase": "https://www.crunchbase.com/organization/cakemail",
+    "Website": "https://www.cakemail.com/",
+    "Twitter": "http://twitter.com/cakemail",
+    "Facebook": "http://www.facebook.com/CakeMail",
+    "Linkedin": "http://www.linkedin.com/company/cakemail"
+  },
+  {
+    "name": "BreezeMaxWeb",
+    "Crunchbase": "https://www.crunchbase.com/organization/breezemaxweb",
+    "Website": "https://breezemaxweb.com/",
+    "Twitter": "https://twitter.com/breezemaxweb",
+    "Facebook": "https://www.facebook.com/breezemaxweb",
+    "Linkedin": "https://www.linkedin.com/company/breezemaxweb-ca-ltd-/"
+  },
+  {
+    "name": "Nutcache",
+    "Crunchbase": "https://www.crunchbase.com/organization/nutcache",
+    "Website": "http://www.nutcache.com/",
+    "Twitter": "http://twitter.com/nutcache",
+    "Facebook": "http://www.facebook.com/Nutcache",
+    "Linkedin": "http://www.linkedin.com/company/nutcache"
+  },
+  {
+    "name": "MINT TECHNOLOGY CORP., MINT INC. AND MINT COMMERCE INC.",
+    "Crunchbase": "https://www.crunchbase.com/organization/mint-technologies",
+    "Website": "https://themintcorp.com/",
+    "Twitter": "N/A",
+    "Facebook": "N/A",
+    "Linkedin": "N/A"
+  },
+  {
+    "name": "Vencru",
+    "Crunchbase": "https://www.crunchbase.com/organization/vencru",
+    "Website": "https://www.vencru.com/",
+    "Twitter": "https://twitter.com/VencruHQ",
+    "Facebook": "https://www.facebook.com/VencruHQ",
+    "Linkedin": "https://www.linkedin.com/company/vencru/"
+  },
+  {
+    "name": "HiredWell",
+    "Crunchbase": "https://www.crunchbase.com/organization/hiredwell",
+    "Website": "http://www.hiredwell.com/",
+    "Twitter": "https://twitter.com/@hiredwell",
+    "Facebook": "https://www.facebook.com/pages/HiredWell/1650752215154235?fref=ts",
+    "Linkedin": "https://www.linkedin.com/company/hiredwell/"
+  },
+  {
+    "name": "ToolHound",
+    "Crunchbase": "https://www.crunchbase.com/organization/toolhound",
+    "Website": "http://www.toolhound.com/",
+    "Twitter": "http://twitter.com/ToolHoundNA",
+    "Facebook": "http://www.facebook.com/ToolHound",
+    "Linkedin": "http://www.linkedin.com/company/toolhound"
+  },
+  {
+    "name": "Miles T Sweeney Limited",
+    "Crunchbase": "https://www.crunchbase.com/organization/miles-t-sweeney-limited",
+    "Website": "https://msweeney.com/",
+    "Twitter": "N/A",
+    "Facebook": "N/A",
+    "Linkedin": "N/A"
+  },
+  {
+    "name": "Softrak Systems",
+    "Crunchbase": "https://www.crunchbase.com/organization/softrak-systems",
+    "Website": "http://softrak.com/",
+    "Twitter": "https://twitter.com/adagiobysoftrak",
+    "Facebook": "https://www.facebook.com/AdagioAccounting",
+    "Linkedin": "https://www.linkedin.com/company-beta/497762/"
+  },
+  {
+    "name": "Happy Go Mobile",
+    "Crunchbase": "https://www.crunchbase.com/organization/happy-go-mobile",
+    "Website": "https://www.happygomobile.com/",
+    "Twitter": "N/A",
+    "Facebook": "https://www.facebook.com/happygomobile/",
+    "Linkedin": "N/A"
+  },
+  {
+    "name": "FieldPro Software Ltd.",
+    "Crunchbase": "https://www.crunchbase.com/organization/fieldpro-software-ltd",
+    "Website": "https://fieldpro-software.com/",
+    "Twitter": "N/A",
+    "Facebook": "https://www.facebook.com/FieldPro-Software-Ltd-105808354841348",
+    "Linkedin": "https://www.linkedin.com/company/fieldpro-software/"
+  },
+  {
+    "name": "Gogiro",
+    "Crunchbase": "https://www.crunchbase.com/organization/gogiro",
+    "Website": "http://gogiro.com/",
+    "Twitter": "http://twitter.com/GogiroIG",
+    "Facebook": "http://www.facebook.com/gogiroig",
+    "Linkedin": "http://www.linkedin.com/company/gogiro-internet-group"
+  },
+  {
+    "name": "Career Spark",
+    "Crunchbase": "https://www.crunchbase.com/organization/career-spark",
+    "Website": "https://www.careerspark.com/",
+    "Twitter": "https://twitter.com/career_spark",
+    "Facebook": "https://www.facebook.com/hellocareerspark/",
+    "Linkedin": "https://www.linkedin.com/company/11428250"
+  },
+  {
+    "name": "Winair",
+    "Crunchbase": "https://www.crunchbase.com/organization/winair",
+    "Website": "http://www.winair.ca/",
+    "Twitter": "https://twitter.com/winair_software/",
+    "Facebook": "N/A",
+    "Linkedin": "https://www.linkedin.com/company/av-base-systems-inc./"
+  },
+  {
+    "name": "Smart Cell Communications",
+    "Crunchbase": "https://www.crunchbase.com/organization/smart-cell-communications",
+    "Website": "https://www.smartcell.ca/",
+    "Twitter": "https://twitter.com/SmartCellDeals",
+    "Facebook": "https://www.facebook.com/SmartCellCommunications/",
+    "Linkedin": "https://www.linkedin.com/company/smart-cell-communications"
+  },
+  {
+    "name": "ATS Corp",
+    "Crunchbase": "https://www.crunchbase.com/organization/ats-corp",
+    "Website": "http://www.atimesolutions.com/",
+    "Twitter": "https://twitter.com/apextime",
+    "Facebook": "N/A",
+    "Linkedin": "http://www.linkedin/company/apex-time-solutions"
+  },
+  {
+    "name": "Ratemyemployer",
+    "Crunchbase": "https://www.crunchbase.com/organization/ratemyemployer",
+    "Website": "http://www.ratemyemployer.ca/",
+    "Twitter": "N/A",
+    "Facebook": "N/A",
+    "Linkedin": "N/A"
+  },
+  {
+    "name": "PM SCADA Cyber Defense",
+    "Crunchbase": "https://www.crunchbase.com/organization/pm-scada-cyber-defense",
+    "Website": "https://www.pmscada.ca/",
+    "Twitter": "N/A",
+    "Facebook": "N/A",
+    "Linkedin": "N/A"
+  },
+  {
+    "name": "Kepler Capital",
+    "Crunchbase": "https://www.crunchbase.com/organization/kepler-capital",
+    "Website": "https://keplercapital.ca/",
+    "Twitter": "N/A",
+    "Facebook": "N/A",
+    "Linkedin": "https://www.linkedin.com/company/kepler-capital-corporation/"
+  },
+  {
+    "name": "StaffStat",
+    "Crunchbase": "https://www.crunchbase.com/organization/staffstat",
+    "Website": "http://www.staffstat.ca/",
+    "Twitter": "https://twitter.com/@StaffStatSuds",
+    "Facebook": "https://www.facebook.com/staffstatsuds",
+    "Linkedin": "https://www.linkedin.com/company/5345578?trk=tyah&trkInfo=idx%3A1-1-1%2CtarId%3A1424449567584%2Ctas%3Astaffstat"
+  },
+  {
+    "name": "A&A Associates | Windsor Printing Press, Signage & Design Services",
+    "Crunchbase": "https://www.crunchbase.com/organization/a-a-associates-windsor-printing-press-signage-design-services",
+    "Website": "https://myprintsupplier.com/",
+    "Twitter": "N/A",
+    "Facebook": "N/A",
+    "Linkedin": "https://ca.linkedin.com/company/a&a-associates-printing-and-design-inc."
+  },
+  {
+    "name": "inBOLD Business Solutions",
+    "Crunchbase": "https://www.crunchbase.com/organization/inbold-solutions",
+    "Website": "http://inboldsolutions.com/",
+    "Twitter": "http://twitter.com/inboldsolutions",
+    "Facebook": "http://www.facebook.com/InBold",
+    "Linkedin": "http://www.linkedin.com/company/3158715"
+  },
+  {
+    "name": "OpenCal",
+    "Crunchbase": "https://www.crunchbase.com/organization/opencal",
+    "Website": "http://opencal.com/",
+    "Twitter": "https://twitter.com/opencal",
+    "Facebook": "N/A",
+    "Linkedin": "N/A"
+  },
+  {
+    "name": "MAK Business Solutions",
+    "Crunchbase": "https://www.crunchbase.com/organization/mak-business-solutions",
+    "Website": "https://www.makbusiness.ca/",
+    "Twitter": "N/A",
+    "Facebook": "N/A",
+    "Linkedin": "N/A"
+  },
+  {
+    "name": "Blue Collar Software",
+    "Crunchbase": "https://www.crunchbase.com/organization/blue-collar-software",
+    "Website": "http://www.bluecollarsoftware.com/",
+    "Twitter": "N/A",
+    "Facebook": "https://www.facebook.com/bluecollarsoftwaresolutions",
+    "Linkedin": "N/A"
+  },
+  {
+    "name": "SharePoint Maven",
+    "Crunchbase": "https://www.crunchbase.com/organization/sharepoint-maven",
+    "Website": "http://sharepointmaven.com/",
+    "Twitter": "https://www.twitter.com/gregoryzelfond",
+    "Facebook": "N/A",
+    "Linkedin": "https://www.linkedin.com/company/sharepoint-maven"
+  },
+  {
+    "name": "Noratek Solutions",
+    "Crunchbase": "https://www.crunchbase.com/organization/noratek-solutions",
+    "Website": "http://www.noratek.com/",
+    "Twitter": "N/A",
+    "Facebook": "N/A",
+    "Linkedin": "https://www.linkedin.com/company/noratek-solutions-inc"
+  },
+  {
+    "name": "CanadaStartups.org",
+    "Crunchbase": "https://www.crunchbase.com/organization/canadastartups-org",
+    "Website": "https://www.canadastartups.org/",
+    "Twitter": "http://www.twitter.com/canada_startups",
+    "Facebook": "N/A",
+    "Linkedin": "https://www.linkedin.com/company/canadastartups.org"
+  },
+  {
+    "name": "InputKit",
+    "Crunchbase": "https://www.crunchbase.com/organization/inputkit",
+    "Website": "https://inputkit.io/",
+    "Twitter": "N/A",
+    "Facebook": "N/A",
+    "Linkedin": "N/A"
+  },
+  {
+    "name": "Climatesmart Business",
+    "Crunchbase": "https://www.crunchbase.com/organization/climatesmart-business",
+    "Website": "https://climatesmartbusiness.com/",
+    "Twitter": "https://twitter.com/climatesmart",
+    "Facebook": "https://www.facebook.com/158608098300",
+    "Linkedin": "https://www.linkedin.com/company/climate-smart"
+  },
+  {
+    "name": "Tenaquip",
+    "Crunchbase": "https://www.crunchbase.com/organization/tenaquip",
+    "Website": "https://tenaquip.com/",
+    "Twitter": "https://twitter.com/tenaquiplimited",
+    "Facebook": "https://www.facebook.com/TenaquipLimited/",
+    "Linkedin": "https://www.linkedin.com/company/tenaquip"
+  },
+  {
+    "name": "B2M Asia",
+    "Crunchbase": "https://www.crunchbase.com/organization/b2m-asia",
+    "Website": "https://www.b2masia.com/",
+    "Twitter": "N/A",
+    "Facebook": "N/A",
+    "Linkedin": "https://www.linkedin.com/company/b2masia"
+  },
+  {
+    "name": "Fuelled",
+    "Crunchbase": "https://www.crunchbase.com/organization/fuelled",
+    "Website": "https://fuelled.com/",
+    "Twitter": "https://twitter.com/FuelledInc",
+    "Facebook": "N/A",
+    "Linkedin": "https://www.linkedin.com/company/fuelled-inc-/"
+  },
+  {
+    "name": "Ayming Canada",
+    "Crunchbase": "https://www.crunchbase.com/organization/ayming-canada",
+    "Website": "http://www.ayming.ca/",
+    "Twitter": "https://twitter.com/ayming_ca",
+    "Facebook": "N/A",
+    "Linkedin": "https://www.linkedin.com/company/ayming-canada-formerly-alma-cg-canada"
+  },
+  {
+    "name": "Aqurus Solutions",
+    "Crunchbase": "https://www.crunchbase.com/organization/aqurus-solutions",
+    "Website": "http://aqurus.ca/",
+    "Twitter": "https://twitter.com/aqurussolutions",
+    "Facebook": "https://www.facebook.com/AqurusSolutions/",
+    "Linkedin": "https://www.linkedin.com/company/aqurus-solutions-inc-/"
+  },
+  {
+    "name": "BookMyCity",
+    "Crunchbase": "https://www.crunchbase.com/organization/bookmycity",
+    "Website": "https://www.bookmycity.com/",
+    "Twitter": "http://twitter.com/bookmycity",
+    "Facebook": "http://www.facebook.com/bookmycity",
+    "Linkedin": "http://www.linkedin.com/company/bookmycity-com"
+  },
+  {
+    "name": "Streamline Information Systems",
+    "Crunchbase": "https://www.crunchbase.com/organization/streamline-information-systems",
+    "Website": "http://www.streamlineis.com/",
+    "Twitter": "N/A",
+    "Facebook": "N/A",
+    "Linkedin": "N/A"
+  },
+  {
+    "name": "TST-CF Express",
+    "Crunchbase": "https://www.crunchbase.com/organization/tst-cf-express",
+    "Website": "https://tst-cfexpress.com/",
+    "Twitter": "N/A",
+    "Facebook": "https://www.facebook.com/Tst-CF-Express-143956215713749",
+    "Linkedin": "https://www.linkedin.com/company/tst-cf-express"
+  },
+  {
+    "name": "Sysgen Solutions Group",
+    "Crunchbase": "https://www.crunchbase.com/organization/sysgen-solutions-group",
+    "Website": "https://www.sysgen.ca/",
+    "Twitter": "https://twitter.com/sysgensays",
+    "Facebook": "https://www.facebook.com/sysgensolutionsgroup/",
+    "Linkedin": "https://www.linkedin.com/company/sysgen-solutions-group"
+  },
+  {
+    "name": "Ad Valorem",
+    "Crunchbase": "https://www.crunchbase.com/organization/ad-valorem",
+    "Website": "https://www.advalorem.ca/",
+    "Twitter": "https://twitter.com/AdValoremSerge",
+    "Facebook": "N/A",
+    "Linkedin": "https://www.linkedin.com/company/ad-valorem-inc-/"
+  },
+  {
+    "name": "Law Scout",
+    "Crunchbase": "https://www.crunchbase.com/organization/law-scout",
+    "Website": "https://www.lawscout.ca/",
+    "Twitter": "https://twitter.com/myLawScout",
+    "Facebook": "https://www.facebook.com/lawscout",
+    "Linkedin": "https://www.linkedin.com/company/law-scout-inc-"
+  },
+  {
+    "name": "Jibbio.com",
+    "Crunchbase": "https://www.crunchbase.com/organization/jibbio",
+    "Website": "http://www.jibbio.com/",
+    "Twitter": "http://twitter.com/Jibbio",
+    "Facebook": "http://www.facebook.com/Jibbio",
+    "Linkedin": "N/A"
+  },
+  {
+    "name": "LogMyHours.com",
+    "Crunchbase": "https://www.crunchbase.com/organization/logmyhours-com",
+    "Website": "https://logmyhours.com/",
+    "Twitter": "https://www.twitter.com/logmyhours",
+    "Facebook": "https://www.facebook.com/logmyhours",
+    "Linkedin": "https://www.linkedin.com/company/log-my-hours"
+  },
+  {
+    "name": "Tooq",
+    "Crunchbase": "https://www.crunchbase.com/organization/tooq",
+    "Website": "http://www.mytooq.com/",
+    "Twitter": "http://twitter.com/tooq",
+    "Facebook": "N/A",
+    "Linkedin": "https://www.linkedin.com/company/tooq-inc/"
+  },
+  {
+    "name": "Divestopedia",
+    "Crunchbase": "https://www.crunchbase.com/organization/divestopedia",
+    "Website": "https://www.divestopedia.com/",
+    "Twitter": "https://twitter.com/divestopedia",
+    "Facebook": "https://www.facebook.com/Divestopedia/",
+    "Linkedin": "https://www.linkedin.com/company/divestopedia"
+  },
+  {
+    "name": "BizXPro Inc.",
+    "Crunchbase": "https://www.crunchbase.com/organization/bizxpro-inc",
+    "Website": "http://www.bizxpro.com/",
+    "Twitter": "N/A",
+    "Facebook": "N/A",
+    "Linkedin": "N/A"
+  },
+  {
+    "name": "Paintbox Catering and Bistro Inc.",
+    "Crunchbase": "https://www.crunchbase.com/organization/paintbox-catering-and-bistro-inc",
+    "Website": "http://paintboxbistro.ca/",
+    "Twitter": "https://twitter.com/paintbox_bistro",
+    "Facebook": "https://www.facebook.com/PaintboxBistro",
+    "Linkedin": "N/A"
+  },
+  {
+    "name": "Engineer Outsourcing",
+    "Crunchbase": "https://www.crunchbase.com/organization/engineer-outsourcing",
+    "Website": "http://www.engineeroutsourcing.com/",
+    "Twitter": "http://twitter.com/eoutsourcing",
+    "Facebook": "N/A",
+    "Linkedin": "N/A"
+  },
+  {
+    "name": "VintValley",
+    "Crunchbase": "https://www.crunchbase.com/organization/vintvalley",
+    "Website": "https://www.vintvalley.com/",
+    "Twitter": "https://twitter.com/vintvalley",
+    "Facebook": "https://www.facebook.com/VintValley/",
+    "Linkedin": "https://www.linkedin.com/company/vintvalleyinc/"
+  },
+  {
+    "name": "Dineserve",
+    "Crunchbase": "https://www.crunchbase.com/organization/dineserve",
+    "Website": "http://dineserve.com/",
+    "Twitter": "http://twitter.com/dineserve",
+    "Facebook": "N/A",
+    "Linkedin": "N/A"
+  },
+  {
+    "name": "Vested",
+    "Crunchbase": "https://www.crunchbase.com/organization/vested-2de2",
+    "Website": "http://vested.ca/",
+    "Twitter": "https://twitter.com/VestedCa",
+    "Facebook": "https://facebook.com/vested.ca",
+    "Linkedin": "https://www.linkedin.com/company/vested-technology-corp-"
+  },
+  {
+    "name": "Safec",
+    "Crunchbase": "https://www.crunchbase.com/organization/safec",
+    "Website": "https://www.safec.ca/",
+    "Twitter": "N/A",
+    "Facebook": "https://www.facebook.com/safec.ca",
+    "Linkedin": "N/A"
+  },
+  {
+    "name": "Valcor",
+    "Crunchbase": "https://www.crunchbase.com/organization/valcor",
+    "Website": "http://valcorworldwide.com/",
+    "Twitter": "http://twitter.com/Valcorworldwide",
+    "Facebook": "http://www.facebook.com/Valcorfb",
+    "Linkedin": "http://www.linkedin.com/company/valcor"
+  },
+  {
+    "name": "Golden Spruce Capital",
+    "Crunchbase": "https://www.crunchbase.com/organization/golden-spruce-capital",
+    "Website": "http://www.goldensprucecapital.com/",
+    "Twitter": "N/A",
+    "Facebook": "N/A",
+    "Linkedin": "https://www.linkedin.com/company/golden-spruce-capital"
+  }
+]
