@@ -56,4 +56,5 @@ const saveAsCSV = (companies, filename) => {
     saveAsCSV(companies, "beststartup.csv");
 
     await browser.close();
+    return;
 })();

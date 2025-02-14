@@ -82,4 +82,5 @@ const saveAsCSV = (companies) => {
     saveAsJSON(companies, "techreviewerComp.json");
 
     await browser.close();
+    return;
 })();
